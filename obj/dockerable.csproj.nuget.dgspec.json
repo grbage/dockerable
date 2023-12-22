@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\dockerable.csproj": {}
+    "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\dockerable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\dockerable.csproj": {
+    "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\dockerable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\dockerable.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\dockerable.csproj",
         "projectName": "dockerable",
-        "projectPath": "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\dockerable.csproj",
+        "projectPath": "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\dockerable.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config"

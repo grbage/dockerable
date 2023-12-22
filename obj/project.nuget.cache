@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JwBiEUOuPP0aQf3l9dTajFkD5W6qC4CfVs4GSEAHYkyd1S0npoNKC4MiLR6QmxE/pY4ckOyh1/miHddiqKzL6g==",
+  "dgSpecHash": "+gMc6r7z5bdWsjWGswaAuDT8YMnBn6DhSAdWeMYm5RJcbgZk6FbQp8YhcVWlOS1JGkJGDdYtFBvgdyE4oi6K8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\jenkins1\\dockerable\\dockerable.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\jenkins2\\dockerable\\dockerable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
